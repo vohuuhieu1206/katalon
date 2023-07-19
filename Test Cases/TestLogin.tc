@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11f7c6d7-7c4e-43f5-9207-877f5657d7dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e2328f8-4878-4b82-9f57-18b04ea19e4c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'thibth@firegroup.io\r\n'</defaultValue>
+      <description></description>
+      <id>6e2328f8-4878-4b82-9f57-18b04ea19e4c</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
